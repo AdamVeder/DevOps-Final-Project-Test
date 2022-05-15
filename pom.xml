@@ -32,7 +32,7 @@
         <directory>index.jsp</directory>
       </resource>
     </resources>
-    <finalName>final-name</finalName>
+    <finalName>test</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>
