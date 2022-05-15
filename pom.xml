@@ -5,9 +5,9 @@
    <modelVersion>4.0.0</modelVersion>
 
    <groupId>com.companyname.project-group</groupId>
-   <artifactId>project</artifactId>
+   <artifactId>war-test</artifactId>
    <version>1.0</version>
-   <packaging>war-test</packaging>
+   <packaging>project</packaging>
    <properties>
     <failOnMissingWebXml>false</failOnMissingWebXml>   
    </properties>
