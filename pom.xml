@@ -46,12 +46,12 @@
             <version>2.13</version>
             <configuration>
               <properties>
+                <failOnMissingWebXml>false</failOnMissingWebXml>
                 <property>
                   <name>listener</name>
                   <value>org.sonar.java.jacoco.JUnitListener</value>
                 </property>
               </properties>
-              <failOnMissingWebXml>false</failOnMissingWebXml>
             </configuration>
           </plugin>
         </plugins>
