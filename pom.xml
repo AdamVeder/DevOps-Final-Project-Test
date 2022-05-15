@@ -50,7 +50,9 @@
         <plugin>
           <artifactId>maven-war-plugin</artifactId>
           <version>3.2.0</version>
-          <webXml>index.jsp</webXml>
+          <configuration>
+            <webXml>index.jsp</webXml>
+          </configuration>
 
         </plugin>
         <plugin>
