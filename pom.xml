@@ -29,7 +29,7 @@
   <build>
      <resources>
       <resource>
-        <directory>index.jsp</directory>
+        <file>index.jsp</file>
       </resource>
     </resources>
     <finalName>test</finalName>
